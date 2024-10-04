@@ -1,7 +1,3 @@
-# DS.v2.5.3.3.5
-### Module 3: Machine Learning v2.5
-### Unsupervised Learning & Hyperparameter tuning
-
 # Spaceship Titanic
 The relevant project is located in spaceship_titanic.ipynb.
 
